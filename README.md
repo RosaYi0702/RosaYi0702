@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yi Hui Lin</h1>
 <h3 align="center">A passionate frontend developer from Taiwan</h3>
 
-- 🔭 I’m currently working on [Around the US](https://rosayi0702.github.io/se_project_aroundtheus/)
+- 🔭 I’m currently working on [What To Wea](https://wtwr-rosa.jumpingcrab.com/)
 
 - 🌱 I’m currently learning **JavaScript**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rosayihuilin@gmail.com**
 
-- ⚡ Fun fact **I do acting job sometime**
+- ⚡ Fun fact **I'm also a stunt actor**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
