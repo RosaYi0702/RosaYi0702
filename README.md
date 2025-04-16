@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yi Hui Lin</h1>
 <h3 align="center">A passionate frontend developer from Taiwan</h3>
 
-- 🔭 I’m currently working on [What To Wea](https://wtwr-rosa.jumpingcrab.com/)
+- 🔭 I’m currently working on [What To Wear](https://wtwr-rosa.jumpingcrab.com/)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Copilot AI**
 
-- 💬 Ask me about **Html, css, dart**
+- 💬 Ask me about **Html, css, JavaScript**
 
 - 📫 How to reach me **rosayihuilin@gmail.com**
 
